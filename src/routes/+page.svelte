@@ -189,7 +189,7 @@
         font-size: var(--header-size);
     }
 
-    .bottom {
+    /* .bottom {
         overflow: hidden;
         display: flex;
         flex-direction: column;
@@ -203,7 +203,7 @@
         cursor: pointer;
         outline: inherit;
         text-decoration: none;
-    }
+    } */
 
     main {
         font-family: "Open Sans", sans-serif;
