@@ -89,7 +89,11 @@
             <i class="las la-file-alt"></i>
             <b>Resume</b>
         </a>
-        <a href="https://portfolio.miguelguthridge.com/" target="_blank">
+        <a href="https://blog.maddyguthridge.com/" target="_blank">
+            <i class="las la-rss"></i>
+            <b>Blog</b>
+        </a>
+        <a href="https://portfolio.maddyguthridge.com/" target="_blank">
             <i class="las la-folder"></i>
             <b>Portfolio</b>
         </a>
