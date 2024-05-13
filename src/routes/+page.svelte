@@ -108,7 +108,7 @@
             --background-color: white;
             --text-color: black;
 
-            --heading-shadow: rgba(86, 40, 107, 0.519) 5px 1px 5px;
+            --heading-shadow: rgba(231, 179, 255, 0.519) 5px 1px 5px;
 
             --link-color: rgb(135, 48, 116);
             --link-hover-color: rgb(183, 47, 154);
