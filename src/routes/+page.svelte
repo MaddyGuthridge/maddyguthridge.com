@@ -27,6 +27,8 @@
 </script>
 
 <svelte:head>
+    <title>Maddy Guthridge</title>
+
     <link
         rel="stylesheet"
         href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css"
@@ -37,6 +39,9 @@
         href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;1,700&display=swap"
         rel="stylesheet"
     />
+
+  <!-- Verification links -->
+  <link rel="me" href="https://tech.lgbt/@MiguelGuthridge" />
 </svelte:head>
 
 <svelte:window bind:scrollY={y} />
