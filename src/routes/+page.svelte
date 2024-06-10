@@ -97,11 +97,11 @@
             <i class="las la-folder"></i>
             <b>Portfolio</b>
         </a>
-        <a href="https://github.com/MiguelGuthridge" target="_blank">
+        <a href="https://github.com/MaddyGuthridge" target="_blank">
             <i class="lab la-github"></i>
             <b>GitHub</b>
         </a>
-        <a href="https://linkedin.com/in/miguelguthridge" target="_blank">
+        <a href="https://linkedin.com/in/maddyguthridge" target="_blank">
             <i class="lab la-linkedin"></i>
             <b>LinkedIn</b>
         </a>
