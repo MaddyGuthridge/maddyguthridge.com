@@ -72,7 +72,7 @@
         </a>
     {/if} -->
     <main>
-        <div>
+        <div class="text">
             <p>
                 I'm a <em>passionate</em> software engineer, teacher and musician
                 studying computer science at UNSW, Sydney.
@@ -196,6 +196,10 @@
 
     .title > h1 {
         font-size: var(--header-size);
+    }
+
+    .text {
+        text-align: center;
     }
 
     /* .bottom {
