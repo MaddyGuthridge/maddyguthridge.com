@@ -41,7 +41,7 @@
     />
 
   <!-- Verification links -->
-  <link rel="me" href="https://tech.lgbt/@MiguelGuthridge" />
+  <link rel="me" href="https://tech.lgbt/@maddy" />
 </svelte:head>
 
 <svelte:window bind:scrollY={y} />
@@ -55,7 +55,7 @@
 <div id="page">
     <div class="title">
         <h1>Hi, I'm Maddy!</h1>
-        <p><i>Maddy (Miguel) Guthridge</i></p>
+        <p><i>Maddy Guthridge (formerly Miguel)</i></p>
         <p style="font-size: 1.2em;"><b><em>they/them</em></b></p>
     </div>
 
