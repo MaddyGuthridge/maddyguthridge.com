@@ -85,10 +85,6 @@
     </main>
 
     <div id="links">
-        <a href="resume.pdf" target="_blank">
-            <i class="las la-file-alt"></i>
-            <b>Resume</b>
-        </a>
         <a href="https://blog.maddyguthridge.com/" target="_blank">
             <i class="las la-rss"></i>
             <b>Blog</b>
