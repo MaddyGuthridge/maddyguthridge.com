@@ -56,7 +56,7 @@
     <div class="title">
         <h1>Hi, I'm Maddy!</h1>
         <p><i>Maddy Guthridge (formerly Miguel)</i></p>
-        <p style="font-size: 1.2em;"><b><em>they/them</em></b></p>
+        <p style="font-size: 1.2em;"><b><em>they/she</em></b></p>
     </div>
 
     <!-- {#if y < 50}
